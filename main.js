@@ -33,7 +33,7 @@ document.addEventListener('DOMContentLoaded', () => {
     ScrollReveal().reveal('.work-container, .portfolio-box, .contact form', { origin: 'bottom' });
 
     new Typed('.multiple-text', {
-        strings: ['UI/UX Designer', 'Web Developer'],
+        strings: ['UI/UX Designer', 'Front EndDeveloper'],
         typeSpeed: 70,
         backSpeed: 70,
         backDelay: 1000,
